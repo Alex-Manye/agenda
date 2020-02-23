@@ -1,0 +1,6 @@
+C:\Users\holacons\Desktop\Ej_Obj1\Ej_Obj1\bin\Debug\Ej_Obj1.exe.config
+C:\Users\holacons\Desktop\Ej_Obj1\Ej_Obj1\bin\Debug\Ej_Obj1.exe
+C:\Users\holacons\Desktop\Ej_Obj1\Ej_Obj1\bin\Debug\Ej_Obj1.pdb
+C:\Users\holacons\Desktop\Ej_Obj1\Ej_Obj1\obj\Debug\Ej_Obj1.csprojAssemblyReference.cache
+C:\Users\holacons\Desktop\Ej_Obj1\Ej_Obj1\obj\Debug\Ej_Obj1.exe
+C:\Users\holacons\Desktop\Ej_Obj1\Ej_Obj1\obj\Debug\Ej_Obj1.pdb
